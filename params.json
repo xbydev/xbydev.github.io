@@ -1,6 +1,0 @@
-{
-  "name": "Xcode和Mac 常用快捷键",
-  "tagline": "xby's blog",
-  "body": "Xcode和Mac 常用快捷键\r\n\r\n1，移动代码的快捷键:\r\n上下移动: command + option + \\[(上)  /  ](下)\r\n\r\n左右移动: command + ](右)  / [(左)\r\n\r\n\r\n\r\n2，展开/隐藏 代码的快捷键:\r\n\r\ncommand + option + <— （隐藏）\r\n\r\ncommand + option +  —>（展开）\r\n\r\n\r\n\r\n3，全局修改局部变量快捷键:\r\n\r\ncommand + control + e\r\n\r\n\r\n\r\n4，弹出方法列表\r\n\r\ncontrol + 6 \r\n\r\n\r\n\r\n5，隐藏/打开控制台\r\n\r\ncommand + shift + y\r\n\r\n\r\n\r\n6，快速打开全局查询\r\n\r\ncommand + shift + f\r\n\r\n\r\n\r\n7，快速切换到.m文件/.h文件:\r\n\r\ncommand + control + up/down\r\n\r\n\r\n\r\n8，快速切换到文件的顶部/底部:\r\n\r\ncommand + up/down\r\n\r\n\r\n\r\n9，删除光标所在行之前的代码:\r\n\r\ncommand + delete\r\n\r\n\r\n\r\n10，将光标移动到所在行的最前面/后面:\r\n\r\ncommand + 左 / 右\r\n\r\n\r\n\r\n11，快速切换到文件的顶部/底部:\r\n\r\ncommand + up/down\r\n\r\n\r\n\r\nMAC操作\r\n\r\n1，终端新建多个窗口\r\n\r\ncommand+T\r\n\r\n\r\n\r\n2，多个终端窗口之间的切换。\r\n\r\nCommand + shift + {或}进行左右切换标签。",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
