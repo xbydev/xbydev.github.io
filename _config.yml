@@ -23,7 +23,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: "https://xbydev.github.io"
+baseurl: ""
 url: "https://xbydev.github.io"
 
 
