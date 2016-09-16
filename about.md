@@ -5,23 +5,23 @@ id: id_about_me
 permalink: /about/
 ---
 
-![我就是我](http://7xlgu7.com1.z0.glb.clouddn.com/me.jpg)
+![我就是我](http://oclv49d8v.bkt.clouddn.com/IMG_0269_1024.jpg)
 
 我的格言
 ===
-> 坚持自己的信仰，坚信每一个人都有蜕变的哪一刻。
+> 自强不息，知行合一；不忘初心，方得始终。
 
 自我介绍
 ===
-90后刚入道的程序员一枚，热爱WEB前端，喜欢旅游和运动。梦想着能慢慢成长为一个小有成就的前端工程师。付出自己的努力，坚信梦想不只是梦。
+85后的老程序员一枚，热爱移动互联网、聚焦音视频相关的开发，也爱运动、爱看书、爱美食、爱旅游。一直在努力为方便人们的生活而努力学习和工作着。付出自己的努力，用代码精彩大家的人生。
 
 教育经历
 ===
-攀枝花学院(Panzhihua University)  2011~2015
+东北大学(秦皇岛分校)  2006~2010
 
 联系方式
 ===
 
-- 新浪微博:[Guovz](http://www.weibo.com/guovz/)
-- github:[Guovz](https://github.com/guovz)
-- Email:[pzhuwjl@qq.com](pzhuwjl@qq.com)
+- github:[xbydev](https://github.com/xbydev)
+- Email:[xby_dev@163.com](xby_dev@163.com)
+- csdn :[lvmaker](http://blog.csdn.net/lvmaker)
