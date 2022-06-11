@@ -1,5 +1,0 @@
----
-title: My Title
-date: 2016-08-28T11:08:33+08:00
---
-this is a test file.let it go.-
